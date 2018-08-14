@@ -3,6 +3,7 @@
 Matrícula | Nome | Email
 --- | --- | --
 20171014040021| Adlem Dutra da Silva | adlem.dutra@escolar.ifrn.edu.br
+20161014040009 | franklin tavares | franklintavaresdacruz@gmail.com
 20172014040034 | Isaque Kaio | isaque.araujo@escolar.ifrn.edu.br
 20172014040030 | Israel Philipe | israelphilipeassuncao@gmail.com
 ???? | Leonardo A. MINORA | leonardo.minora at ifrn edu br
