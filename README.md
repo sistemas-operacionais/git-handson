@@ -9,3 +9,4 @@ Matrícula | Nome | Email
 20141014050482 | Lídio Laurentino | lidio.ljl@hotmail.com
 20172014040015 | Ricardo Rafael | rafaelsoaresmd@gmail.com
 20172014040022 | Victor Augusto Fernandes Pereira | augusto.victor@escolar.ifrn.edu.br
+20172014040016 | José wilde lima da silva | wildesilva2011@hotmail.com
