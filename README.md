@@ -1,2 +1,4 @@
-# git-handson
-Prática de Git com o GitHub
+# Prática de Git com o GitHub
+
+Matrícula | Nome | Email
+--- | --- | --
