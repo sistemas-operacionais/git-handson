@@ -1,4 +1,4 @@
 # Prática de Git com o GitHub
 
-Matrícula | Nome | Email
+20172014040022 | Victor Augusto Fernandes Pereira | augusto.victor@escolar.ifrn.edu.br
 --- | --- | --
