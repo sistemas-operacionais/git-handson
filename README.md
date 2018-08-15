@@ -3,6 +3,7 @@
 Matrícula | Nome | Email
 --- | --- | ---
 20171014040021| Adlem Dutra da Silva | adlem.dutra@escolar.ifrn.edu.br
+20172014040011 | André Luiz Bezerra Costa | andrelbc7@hotmail.com
 20172014040007 | Hualyson Carvalho | hualysonc@gmail.com
 20172014040034 | Isaque Kaio | isaque.araujo@escolar.ifrn.edu.br
 20172014040030 | Israel Philipe | israelphilipeassuncao@gmail.com
