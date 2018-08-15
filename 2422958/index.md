@@ -6,6 +6,8 @@
 **Matrícula**: 2422958
 **Nome**: Leonardo A. Minora
 **Email**: leonardo.minora at ifrn edu br
+[GitHub](https://github.com/leonardo-minora/)
+
 
 ## Comandos do git
 
