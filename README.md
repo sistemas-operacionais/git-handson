@@ -1,4 +1,4 @@
-# Prática de Git com o GitHub
+# Prática de Git com o repositório remoto no GitHub
 
 Matrícula | Nome | Email
 --- | --- | ---
