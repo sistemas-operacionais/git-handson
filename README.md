@@ -1,4 +1,6 @@
-# Prática de Git com o GitHub
+# Prática de Git com o repositório remoto no GitHub
+
+- [Minora](2422958)
 
 Matrícula | Nome | Email
 --- | --- | ---
