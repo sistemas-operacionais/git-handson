@@ -14,3 +14,4 @@ Matrícula | Nome | Email
 20172014040015 | Ricardo Rafael | rafaelsoaresmd@gmail.com
 20172014040022 | Victor Augusto Fernandes Pereira | augusto.victor@escolar.ifrn.edu.br
 20172014040016 | José Wilde Lima da Silva | wildesilva2011@hotmail.com
+20142014040302 | Hiury Joaquim Oliveira André Araújo | hiuryo1996@gmail.com
