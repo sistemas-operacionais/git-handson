@@ -8,6 +8,7 @@ Matrícula | Nome | Email
 20172014040007 | Hualyson Carvalho | hualysonc@gmail.com
 20172014040034 | Isaque Kaio | isaque.araujo@escolar.ifrn.edu.br
 20172014040030 | Israel Philipe | israelphilipeassuncao@gmail.com
+20162014040034 | Jonatas M. Silva | jonatas201217@gmail.com
 2422958 | Leonardo A. MINORA | leonardo.minora at ifrn edu br
 20141014050482 | Lídio Laurentino | lidio.ljl@hotmail.com
 20172014040006 | Lucas Mateus da Silva Machado | lucasmateus.sm@outlook.com
