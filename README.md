@@ -1,4 +1,4 @@
-# Prática de Git com o GitHub
+# Prática parte 2 de Git com o GitHub
 
 Matrícula | Nome | Email
 --- | --- | ---
